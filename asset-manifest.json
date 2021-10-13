@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/onnx-playground/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/onnx-playground/static/js/main.4fa2c357.chunk.js",
+    "main.js.map": "/onnx-playground/static/js/main.4fa2c357.chunk.js.map",
+    "runtime-main.js": "/onnx-playground/static/js/runtime-main.d7db3329.js",
+    "runtime-main.js.map": "/onnx-playground/static/js/runtime-main.d7db3329.js.map",
+    "static/js/2.54ab68ef.chunk.js": "/onnx-playground/static/js/2.54ab68ef.chunk.js",
+    "static/js/2.54ab68ef.chunk.js.map": "/onnx-playground/static/js/2.54ab68ef.chunk.js.map",
+    "static/js/3.fb9c7407.chunk.js": "/onnx-playground/static/js/3.fb9c7407.chunk.js",
+    "static/js/3.fb9c7407.chunk.js.map": "/onnx-playground/static/js/3.fb9c7407.chunk.js.map",
+    "index.html": "/onnx-playground/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/onnx-playground/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.54ab68ef.chunk.js.LICENSE.txt": "/onnx-playground/static/js/2.54ab68ef.chunk.js.LICENSE.txt",
+    "static/media/sample_720p.mp4": "/onnx-playground/static/media/sample_720p.a1f8438b.mp4",
+    "static/media/tinyyolov2-7.onnx": "/onnx-playground/static/media/tinyyolov2-7.58217825.onnx"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7db3329.js",
+    "static/js/2.54ab68ef.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.4fa2c357.chunk.js"
+  ]
+}
